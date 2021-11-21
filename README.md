@@ -1,6 +1,6 @@
 # GraphQL playground
 
-Fairly simple server written in graphQL to get UK bank holidays.
+Fairly simple Apollo graphQL server to get UK bank holidays.
 
 ## Setup
 
